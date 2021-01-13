@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "emtpy", "emtpy\emtpy.pyproj", "{B4F7B00E-1927-4CE4-BB38-9F7CF1C75183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4F7B00E-1927-4CE4-BB38-9F7CF1C75183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F7B00E-1927-4CE4-BB38-9F7CF1C75183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56321EC0-EBB8-4FF4-AB7D-50C89A5396A8}
+	EndGlobalSection
+EndGlobal
